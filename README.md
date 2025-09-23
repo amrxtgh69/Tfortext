@@ -1,0 +1,3 @@
+# Tfortext
+it is a simple text editor which probably supports plugins too.....
+
